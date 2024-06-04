@@ -1,0 +1,90 @@
+{
+  "lights": {
+    
+  },
+  "cameras": {
+    
+  },
+  "models": {
+
+    "TV_MODEL": {
+      "path": "TV_MODEL.glb",
+      "name": "TV_MODEL",
+      "type": "dynamic",
+      "id": 1,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "castShadow": true,
+      "receiveShadow": true,
+      "clickable": false
+    },
+    "PNUT_MODEL": {
+      "path": "PNUT_MODEL.glb",
+      "name": "PNUT_MODEL",
+      "type": "dynamic",
+      "id": 2,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "castShadow": true,
+      "receiveShadow": true,
+      "clickable": false
+    },
+    "CABLE_ETH_MODEL": {
+      "path": "CABLE_ETH_MODEL.glb",
+      "name": "CABLE_ETH_MODEL",
+      "type": "dynamic",
+      "id": 3,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "castShadow": true,
+      "receiveShadow": true,
+      "clickable": false
+    },
+    "CABLE_HDMI_MODEL": {
+      "path": "CABLE_HDMI_MODEL.glb",
+      "name": "CABLE_HDMI_MODEL",
+      "type": "dynamic",
+      "id": 4,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "castShadow": true,
+      "receiveShadow": true,
+      "clickable": false
+    }
+
+    
+
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "mobile": {
+    "sections": {
+      "section0": {
+        "cameraPosition": {
+          "x": 0.0215,
+          "y": -0.2589,
+          "z": 2.4780
+        },
+        "OCTarget": {
+          "x": 0,
+          "y": -0.55,
+          "z": 0
+        }
+      },
+      "section1": {
+        "cameraPosition": {
+          "x": 0.0215,
+          "y": -0.2589,
+          "z": 2.4780
+        },
+        "OCTarget": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "section2": {
+        "cameraPosition": {
+          "x": 0.0215,
+          "y": -0.2589,
+          "z": 2.4780
+        },
+        "OCTarget": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "section3": {
+        "cameraPosition": {
+          "x": 0.0215,
+          "y": -0.2589,
+          "z": 2.4780
+        },
+        "OCTarget": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "section34Inbetween": {
+        "cameraPosition": {
+          "x": 1.2879,
+          "y": 0.7174,
+          "z": -0.6546
+        },
+        "OCTarget": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "section4": {
+        "cameraPosition": {
+          "x": -0.1548,
+          "y": 0.1245,
+          "z": -0.4683
+        },
+        "OCTarget": {
+          "x": -0.01,
+          "y": -0.02,
+          "z": 0
+        }
+      },
+      "section5": {
+        "cameraPosition": {
+          "x": -0.6448,
+          "y": 0.5077,
+          "z": -1.7100
+        },
+        "OCTarget": {
+          "x": 0.03,
+          "y": -0.02,
+          "z": 0
+        }
+      }
+    }
+  },
+  "laptop": {
+    "sections": {
+      "section0": {
+        "cameraPosition": {
+          "x": -1.2,
+          "y": 0,
+          "z": 1.5538
+        },
+        "OCTarget": {
+          "x": 0.5,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section1": {
+        "cameraPosition": {
+          "x": 0.3640,
+          "y": -0.0202,
+          "z": 2.5
+        },
+        "OCTarget": {
+          "x": 0.5,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section2": {
+        "cameraPosition": {
+          "x": 0.3640,
+          "y": -0.0202,
+          "z": 2.5
+        },
+        "OCTarget": {
+          "x": 0.5,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section3": {
+        "cameraPosition": {
+          "x": 0.3640,
+          "y": -0.0202,
+          "z": 2.5
+        },
+        "OCTarget": {
+          "x": 0.5,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section34Inbetween": {
+        "cameraPosition": {
+          "x": 1.3072,
+          "y": 0.4706,
+          "z": -0.8974
+        },
+        "OCTarget": {
+          "x": -0.15,
+          "y": -0.05,
+          "z": -0.25
+        }
+      },
+      "section4": {
+        "cameraPosition": {
+          "x": -0.1453,
+          "y": 0.0732,
+          "z": -0.3444
+        },
+        "OCTarget": {
+          "x": -0.06,
+          "y": -0.01,
+          "z": 0
+        }
+      },
+      "section5": {
+        "cameraPosition": {
+          "x": -0.6448,
+          "y": 0.5077,
+          "z": -1.7100
+        },
+        "OCTarget": {
+          "x": 0.03,
+          "y": -0.02,
+          "z": 0
+        }
+      }
+    }
+  },
+  "screen": {
+    "sections": {
+      "section0": {
+        "cameraPosition": {
+          "x": -0.5,
+          "y": 0.0584,
+          "z": 1.6427
+        },
+        "OCTarget": {
+          "x": 0.4,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section1": {
+        "cameraPosition": {
+          "x": 0.3640,
+          "y": -0.0202,
+          "z": 2
+        },
+        "OCTarget": {
+          "x": 0.5,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section2": {
+        "cameraPosition": {
+          "x": 0.3640,
+          "y": -0.0202,
+          "z": 2
+        },
+        "OCTarget": {
+          "x": 0.5,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section3": {
+        "cameraPosition": {
+          "x": 0.3640,
+          "y": -0.0202,
+          "z": 2
+        },
+        "OCTarget": {
+          "x": 0.5,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section34Inbetween": {
+        "cameraPosition": {
+          "x": 1.2879,
+          "y": 0.3174,
+          "z": -0.9
+        },
+        "OCTarget": {
+          "x": -0.25,
+          "y": -0.1,
+          "z": -0.25
+        }
+      },
+      "section4": {
+        "cameraPosition": {
+          "x": -0.1453,
+          "y": 0.0732,
+          "z": -0.3444
+        },
+        "OCTarget": {
+          "x": -0.08,
+          "y": -0.01,
+          "z": 0
+        }
+      },
+      "section5": {
+        "cameraPosition": {
+          "x": -0.6448,
+          "y": 0.5077,
+          "z": -1.7100
+        },
+        "OCTarget": {
+          "x": 0.03,
+          "y": -0.02,
+          "z": 0
+        }
+      }
+    }
+  },
+  "bigscreen": {
+    "sections": {
+      "section0": {
+        "cameraPosition": {
+          "x": -0.3484,
+          "y": 0.0584,
+          "z": 1.6427
+        },
+        "OCTarget": {
+          "x": 0.55,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section1": {
+        "cameraPosition": {
+          "x": 0.3640,
+          "y": -0.0202,
+          "z": 1.7
+        },
+        "OCTarget": {
+          "x": 0.55,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section2": {
+        "cameraPosition": {
+          "x": 0.3640,
+          "y": -0.0202,
+          "z": 1.7
+        },
+        "OCTarget": {
+          "x": 0.55,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section3": {
+        "cameraPosition": {
+          "x": 0.3640,
+          "y": -0.0202,
+          "z": 1.7
+        },
+        "OCTarget": {
+          "x": 0.55,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section34Inbetween": {
+        "cameraPosition": {
+          "x": 1.1,
+          "y": 0.25,
+          "z": -1
+        },
+        "OCTarget": {
+          "x": -0.3,
+          "y": -0.1,
+          "z": -0.3
+        }
+      },
+      "section4": {
+        "cameraPosition": {
+          "x": -0.1,
+          "y": 0.07,
+          "z": -0.3
+        },
+        "OCTarget": {
+          "x": -0.08,
+          "y": -0.02,
+          "z": 0
+        }
+      },
+      "section5": {
+        "cameraPosition": {
+          "x": -0.6448,
+          "y": 0.5077,
+          "z": -1.7100
+        },
+        "OCTarget": {
+          "x": 0.03,
+          "y": -0.02,
+          "z": 0
+        }
+      }
+    }
+  },
+  "superscreen": {
+    "sections": {
+      "section0": {
+        "cameraPosition": {
+          "x": -0.3484,
+          "y": 0.0584,
+          "z": 1.5
+        },
+        "OCTarget": {
+          "x": 0.6,
+          "y": -0.1,
+          "z": 0
+        }
+      },
+      "section1": {
+        "cameraPosition": {
+          "x": 0.5,
+          "y": -0.0202,
+          "z": 1.45
+        },
+        "OCTarget": {
+          "x": 0.6,
+          "y": -0.05,
+          "z": 0
+        }
+      },
+      "section2": {
+        "cameraPosition": {
+          "x": 0.5,
+          "y": -0.0202,
+          "z": 1.45
+        },
+        "OCTarget": {
+          "x": 0.6,
+          "y": -0.05,
+          "z": 0
+        }
+      },
+      "section3": {
+        "cameraPosition": {
+          "x": 0.5,
+          "y": -0.0202,
+          "z": 1.45
+        },
+        "OCTarget": {
+          "x": 0.6,
+          "y": -0.05,
+          "z": 0
+        }
+      },
+      "section34Inbetween": {
+        "cameraPosition": {
+          "x": 1,
+          "y": 0.15,
+          "z": -1.1
+        },
+        "OCTarget": {
+          "x": -0.35,
+          "y": 0,
+          "z": -0.35
+        }
+      },
+      "section4": {
+        "cameraPosition": {
+          "x": -0.12,
+          "y": 0.08,
+          "z": -0.3
+        },
+        "OCTarget": {
+          "x": -0.08,
+          "y": -0.02,
+          "z": 0
+        }
+      },
+      "section5": {
+        "cameraPosition": {
+          "x": -0.6448,
+          "y": 0.5077,
+          "z": -1.7100
+        },
+        "OCTarget": {
+          "x": 0.03,
+          "y": -0.02,
+          "z": 0
+        }
+      }
+    }
+  }
+}
+  
